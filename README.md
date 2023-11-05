@@ -12,6 +12,7 @@
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" width="48" height="48"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs"/>
+<img src="https://img.icons8.com/?size=48&id=13679&format=png">
 </p>
 
 ##
