@@ -1,18 +1,20 @@
-##  Olá visitante 👋, sou o Renan
+##  Olá visitante 👋
+* 👨‍💻🖥 Trabalhando atualmente na [Lab2dev](https://lab2dev.com/).
+* 🌟 Fato: Sou apaixonado por tecnologia, me colocando furadas com projetos pessoais, mesmo sem conhecimento para prosseguir.
+* 🧰 Focado em desenvolvimentos com: HTML, CSS, JavaScript, SAP UI5 Fiori, Node.JS.
+* 🌎 Onde me encontrar:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renang-freire)
+
 
 # 🚀 Technologies 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/html-5"/>
-<img src="https://img.icons8.com/color/48/000000/css3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript"/>
-<img src="https://i.imgur.com/D7Yj6zz.png"  width="48" height="48"/>
-</p>
-
-# 📚 Studing
-<p align="left">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_168875.png" width="48" height="48"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs"/>
-<img src="https://img.icons8.com/?size=48&id=13679&format=png">
+<img src="https://img.icons8.com/color/32/000000/javascript"/>
+<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="32" height="32"/>
+<img src="https://img.icons8.com/?size=32&id=38192&format=png">
+<img src="https://img.icons8.com/color/32/000000/git"/>
+<img src="https://img.icons8.com/color/32/000000/html-5"/>
+<img src="https://img.icons8.com/color/32/000000/css3"/>
 </p>
 
 ##
