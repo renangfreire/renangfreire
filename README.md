@@ -1,5 +1,5 @@
 ##  Olá visitante 👋
-* 👨‍💻🖥 Trabalhando atualmente na [Lab2dev](https://lab2dev.com/).
+* 👨‍💻 Trabalhando atualmente na [Lab2dev](https://lab2dev.com/).
 * 🌟 Fato: Sou apaixonado por tecnologia, me colocando furadas com projetos pessoais, mesmo sem conhecimento para prosseguir.
 * 🧰 Focado em desenvolvimentos com: HTML, CSS, JavaScript, SAP UI5 Fiori, Node.JS.
 * 🌎 Onde me encontrar:
