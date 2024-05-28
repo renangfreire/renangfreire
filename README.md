@@ -1,7 +1,7 @@
 ##  Olá visitante 👋
 * 👨‍💻 Trabalhando atualmente na [Lab2dev](https://lab2dev.com/).
 * 🌟 Fato: Sou apaixonado por tecnologia, me jogando em furadas nos projetos pessoais, mesmo sem conhecimento para prosseguir.
-* 🧰 Focado em desenvolvimentos com: HTML, CSS, JavaScript, SAP UI5 Fiori, Node.JS.
+* 🧰 Focado em desenvolvimentos com: HTML, CSS, JavaScript, SAP UI5 Fiori, SAP CAP, Node.JS.
 * 🌎 Onde me encontrar:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renang-freire)
