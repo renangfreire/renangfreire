@@ -10,6 +10,7 @@
 # 🚀 Technologies 
 <p align="left">
 <img src="https://img.icons8.com/color/32/000000/javascript"/>
+<img src="https://img.icons8.com/color/32/000000/typescript"/>
 <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="32" height="32"/>
 <img src="https://img.icons8.com/?size=32&id=38192&format=png">
 <img src="https://img.icons8.com/color/32/000000/git"/>
